@@ -1,0 +1,20 @@
+{
+  "name": "app",
+  "version": "1.0.50",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "bun run --watch src/index.ts"
+  },
+  "dependencies": {
+    "@elysiajs/openapi": "^1.4.14",
+    "dotenv": "^17.4.1",
+    "elysia": "latest",
+    "logixlysia": "^6.3.1",
+    "nodemailer": "^8.0.5"
+  },
+  "devDependencies": {
+    "@types/nodemailer": "^8.0.0",
+    "bun-types": "latest"
+  },
+  "module": "src/index.js"
+}
