@@ -11,3 +11,5 @@ bun start
 ```
 
 Open http://localhost:3000/ with your browser to see the result.
+
+Obs: O PASS que está no .env não é senha da conta do google ou email. Precisa gerar um app-password. Para contas do google o app-password é gerado nesse link: https://myaccount.google.com/apppasswords

@@ -37,7 +37,7 @@ app.post(
   },
   {
     body: t.Object({
-      to: t.String(),
+      to: t.String({}),
       subject: t.String(),
       text: t.String(),
     }),
