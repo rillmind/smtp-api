@@ -1,6 +1,6 @@
 # API que envia email
 
-API simples que utiliza na biblioteca nodemailer para enviar emails utilizando do SMTP (simple mails tranfer protocol).
+API simples que utiliza da biblioteca nodemailer para enviar emails utilizando do SMTP (simple mails tranfer protocol).
 
 ## Getting Started
 
